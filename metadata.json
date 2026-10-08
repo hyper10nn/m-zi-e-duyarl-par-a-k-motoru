@@ -1,0 +1,8 @@
+{
+  "name": "Remix PulseFX - Müzik \u0026 Parçacık Video Stüdyosu",
+  "description": "Müzik ritmine duyarlı parçacık görselleştirici, video \u0026 görsel arka planları ve yazı-şekil dönüştürücü efekt stüdyosu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
